@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Douglas</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -13,8 +13,11 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-image: url("https://hdqwalls.com/download/sea-background-1366x768.jpg");                
+                background-repeat: no-repeat;
+                background-size: 100%;
+                
+                color: #fff;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -50,7 +53,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: black;
                 padding: 0 25px;
                 font-size: 12px;
                 font-weight: 600;
